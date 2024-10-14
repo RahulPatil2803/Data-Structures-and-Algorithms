@@ -12,7 +12,7 @@ int main(){
 			cout<<j<<" "; 
 			//printf("%d  ",j);
 		}
-    printf("\n");
+    cout<<"\n";
 	}
 	return 0;
 }
